@@ -14,4 +14,4 @@ spring boot application CI CD using AWS
 - ECS
 - Fargate
 
-If you have any feedback, please reach out to me at kishorenaidu1997@gmail.co
+If you have any feedback, please reach out to me at kishorenaidu1997@gmail.com
